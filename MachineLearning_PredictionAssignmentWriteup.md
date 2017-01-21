@@ -1,7 +1,7 @@
 Machine Learning Project: Prediction Assignment Writeup
 ================
 Martin Haneferd
-21 jan. 2017
+21 january 2017
 
 Overview
 ========
