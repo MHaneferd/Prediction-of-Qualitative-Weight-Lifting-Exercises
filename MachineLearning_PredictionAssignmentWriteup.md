@@ -242,7 +242,7 @@ rf.final
     ##  B  A  B  A  A  E  D  B  A  A  B  C  B  A  E  E  A  B  B  B 
     ## Levels: A B C D E
 
-Summary
+Summary 
 -------
 
 The random forest model selection turns out to be extremly accurate. It is fast when you use the rfUtility package to select out the most important variables, and run the random forest with default values. The forecast turned out to be exact and gave 100% on the quiz.
